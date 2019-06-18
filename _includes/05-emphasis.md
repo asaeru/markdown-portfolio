@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**idea revolucionaria**
+ _Ser interprete_
+ **No** __Se Que quieres__ *_Moises_*
